@@ -4,6 +4,6 @@ Git is a free distributed software under GPL.
 
 Git is mutable index named stage.
 
-git tracks changes.
+git tracks changes of files.
 
 
